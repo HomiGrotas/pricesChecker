@@ -1,0 +1,9 @@
+{
+  "url": "https://hypermor.shopo.co.il/search/%D7%A8%D7%95%D7%98%D7%91%20%D7%A6%D7%99%D7%9C%D7%99%20%D7%9E%D7%AA%D7%95%D7%A7",
+  "look_for": "צילי מתוק",
+  "name": "/html/body/section/section/div/div/sp-items/div[3]/div[1]/div[{ind}]/div/sp-product/div[{ind2}]",
+  "price": "/html/body/section/section/div/div/sp-items/div[3]/div[1]/div[{ind}]/div/sp-product/div[{ind2}]/div/span[1]",
+  "company": "/html/body/section/section/div/div/sp-items/div[3]/div[1]/div[{ind}]/div/sp-product/div[{ind2}]/span[1]",
+  "amount": "/html/body/section/section/div/div/sp-items/div[3]/div[1]/div[{ind}]/div/sp-product/div[{ind2}]/span[2]",
+  "handler": "hiperMorHandler"
+}
